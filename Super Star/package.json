@@ -1,0 +1,25 @@
+{
+  "id": 47224594,
+  "name": "Super Star",
+  "author": "Muncho",
+  "description": "Whew",
+  "items": [
+    {
+      "id": 918,
+      "name": "Super Star",
+      "slot": 1,
+      "item": 504,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "Decal.png"          
+        },
+        {
+          "name": "Diffuse",
+          "image": "Mainbody.png",
+		  "type": 1
+        }
+      ]
+    }
+  ]
+}
